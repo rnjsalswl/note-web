@@ -1,0 +1,11 @@
+.wrap{margin:0 auto;padding:0;text-align: center;}
+h2{margin-bottom:20px;}
+.iTitle{width:500px;}
+.iFile{margin-top:20px;width:500px;}
+.btnSubmit{margin-top:20px;
+    color: #fff;
+    background-color: rgb(92, 133, 86);
+    border-radius: 20px;
+    width: 80px;
+    height: 40px;
+    border: none;}

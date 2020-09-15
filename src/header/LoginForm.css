@@ -1,0 +1,42 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.form {
+    width: 100%;
+    align-self: center;
+    text-align: center;
+    height: 400px;
+    line-height: 100px;
+}
+.cuf{
+    width:100%;
+    text-align: center;
+}
+input {
+    border-radius: 20px;
+    border: 0.5px solid rgba(0,0,0,0.2);
+    height: 40px;
+    margin-right: 10px;
+    padding-left:10px;
+}
+
+.btnLogin {
+    color: #fff;
+    background-color: rgb(92, 133, 86);
+    border-radius: 20px;
+    width: 80px;
+    height: 40px;
+    border: none;
+    margin-right: 10px;
+}
+.btnCreate{
+    color: #fff;
+    background-color: rgb(92, 133, 86);
+    border-radius: 20px;
+    width: 157px;
+    height: 40px;
+    border: none;
+    margin-right: 10px;
+}

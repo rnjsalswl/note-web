@@ -1,0 +1,6 @@
+*{margin:0 auto; padding:0;}
+.card{width:90%;border-radius: 20px;overflow:hidden;text-align: center; box-shadow: 1px 1px 15px rgb(219, 219, 219);}
+div{margin-bottom: 20px;}
+.card-left{float:left;width:50%;margin-top:100px;}
+.card-right{margin:0;float:right;width:50%;}
+.card-right img{float:right;width:100%;}
